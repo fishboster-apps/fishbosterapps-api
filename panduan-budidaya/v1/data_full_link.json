@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2024-10-18",
+    "lastUpdated": "2025-12-09",
     "data": {
-        "url-image-product": "https://itfishboster.github.io/fishbosterapp-api/images/product",
-        "url-image-product-hd": "https://itfishboster.github.io/fishbosterapp-api/images/product/image-hd",
-        "url-image-disease": "https://itfishboster.github.io/fishbosterapp-api/images/disease",
-        "url-image-banner": "https://itfishboster.github.io/fishbosterapp-api/images/banner",
-        "url-image-front": "https://itfishboster.github.io/fishbosterapp-api/images/agent/front-shop",
-        "url-image-front-hd": "https://itfishboster.github.io/fishbosterapp-api/images/agent/front-shop/image-hd",
-        "url-image-location": "https://itfishboster.github.io/fishbosterapp-api/images/agent/maps-shop",
-        "url-image-photo": "https://itfishboster.github.io/fishbosterapp-api/images/marketing"
+        "url-image-product": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/product",
+        "url-image-product-hd": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/product/image-hd",
+        "url-image-disease": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/disease",
+        "url-image-banner": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/banner",
+        "url-image-front": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/agent/front-shop",
+        "url-image-front-hd": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/agent/front-shop/image-hd",
+        "url-image-location": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/agent/maps-shop",
+        "url-image-photo": "https://fishboster-apps.github.io/fishbosterapps-api/panduan-budidaya/images/marketing"
     }
 }
