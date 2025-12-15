@@ -1,30 +1,48 @@
 {
-    "lastUpdated": "2024-10-18",
-    "total": 5,
+    "lastUpdated": "2025-12-09",
+    "total": 8,
     "data": [
         {
-            "name": "Kunjungan Kerja dari DWP Sub Unit SMP Negeri 1 Gedangan Kab. Sidoarjo",
-            "date": "2024-10-12",
-            "url-image-banner": "Banner-Pelatihan-DWP-Gedangan.png",
-            "url-post": "https://youtu.be/LieE7zlkhaA"
+            "name": "Pelatihan Pengolahan Hasil Perikanan Desa Tambak Oso Kec. Waru",
+            "date": "2025-11-19",
+            "url-image-banner": "Banner-Pelatihan-Pengolahan-Tambakoso-19112025.jpg",
+            "url-post": "https://youtu.be/ymw3GUHI4GQ"
+        },
+        {
+            "name": "Pelatihan Pembuatan Pakan Mandiri Desa Lebo, Kec. Sidoarjo",
+            "date": "2025-11-14",
+            "url-image-banner": "Banner-Pelatihan-Pakan-Mandiri-Lebo-14112025.jpg",
+            "url-post": "https://youtu.be/QZF7HVtf6uQ"
+        },
+        {
+            "name": "Kunjungan Eduminawisata KB-TK ZAINDUDDIN",
+            "date": "2025-10-28",
+            "url-image-banner": "Banner-Kunjungan-Eduminawisata-TK-Zainuddin-28102025.jpg",
+            "url-post": "https://youtu.be/YVqwq4MaZpE"
+        },
+        {
+            "name": "Kunjungan Industri SMA Negeri 1 Taman",
+            "date": "2025-10-25",
+            "url-image-banner": "Banner-Kunjungan-Industri-SMAN-1-Taman-25102025.jpg",
+            "url-post": "https://youtu.be/tTg_BA544II"
+        },
+        {
+            "name": "Pelatihan Budidaya Ikan Bandeng Air Payau Kota Pasuruan",
+            "date": "2025-10-15",
+            "url-image-banner": "Banner-Pelatihan-Budidaya-Ikan-Bandeng-Kota-Pasuruan-15102025.jpg",
+            "url-post": "https://youtu.be/dZiLJaFO9jE"
+        },
+        {
+            "name": "Cerita Petani: Budidaya Lele Sistem Boster Sejak 2010",
+            "date": "2025-09-19",
+            "url-image-banner": "Banner-Testimoni-Budidaya-Lele-Sistem-Boster-Bangkalan-19092025.jpg",
+            "url-post": "https://youtu.be/rodcyjT_NHo"
         },
         {
             "name": "Kegiatan Jualan Keliling Lele Sehat bersama Lele Boster",
             "date": "2024-10-09",
             "url-image-banner": "Banner-Jualan-Keliling.png",
             "url-post": "https://youtu.be/0HAR54osMwE"
-        },
-        {
-            "name": "Keseruan Eduminawisata TK Bina Insani Buduran Kab. Sidoarjo",
-            "date": "2024-09-21",
-            "url-image-banner": "Banner-Eduminawisata-TK-Buduran.png",
-            "url-post": "https://youtu.be/mxb51CXqh1w"
-        },
-        {
-            "name": "Peserta Pelatihan dari Dinas Peternakan dan Perikanan Kab. Bondowoso",
-            "date": "2024-09-04",
-            "url-image-banner": "Banner-Pelatihan-Bondowoso.png",
-            "url-post": "https://youtu.be/42zHE1ScKGU"
         },
         {
             "name": "Mengikuti Pameran yang diselenggarakan Direktorat Jenderal Perikanan Budi Daya KPP RI",
